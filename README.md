@@ -15,3 +15,4 @@ This Sync Clock Divider module includes:
 
 The module uses a synchronous counter for clock division and a glitch-free clock multiplexer to select the desired divided clock or the scan clock based on the control signals. The o_clk output is generated accordingly.
 
+![image](https://github.com/Abhinav-863/Synchronous-Clock-Divider/assets/113772669/8730ee88-e08e-449b-a5f6-d5bb0e078972)
